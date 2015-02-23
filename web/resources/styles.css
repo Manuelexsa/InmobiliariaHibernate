@@ -1,0 +1,59 @@
+/* header*/
+header{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+header img{
+    width: 100px;
+    margin-left: 0px;
+}
+
+.contenedor{
+    width: 800px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.img{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#entrar{
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.inmuebles{
+    border: black solid 1px;
+    border-collapse: collapse;
+}
+
+table {
+    margin: 0 auto;
+}
+.inmuebles td{
+    padding: 0.3em;
+    background-color: white;
+}
+
+.inmuebles th{
+    padding: 0.3em;
+    background-color: lightsteelblue;
+}
+
+.icono{
+    width: 20px;
+    height: 20px;
+}
+h4{
+    float: right;
+}
